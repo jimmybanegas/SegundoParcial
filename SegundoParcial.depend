@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1383270998 source:c:\users\auditor3\documents\progra3\segundoparcial\nodo.cpp
+	"Nodo.h"
+	<iostream>
+
+1383270272 c:\users\auditor3\documents\progra3\segundoparcial\nodo.h
+
+1383615964 source:c:\users\auditor3\documents\progra3\segundoparcial\main.cpp
+	<iostream>
+	<vector>
+	"Lista.h"
+	"Nodo.h"
+
+1383615727 source:c:\users\auditor3\documents\progra3\segundoparcial\lista.cpp
+	"Lista.h"
+
+1383615726 c:\users\auditor3\documents\progra3\segundoparcial\lista.h
+	"Nodo.h"
+	<iostream>
+
